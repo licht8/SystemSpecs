@@ -81,9 +81,7 @@ int main() {
     motherboardInfo.GetMotherboardInfo();
 
     SetConsoleColor(FOREGROUND_INTENSITY);
-        
-    // 23232
-    //3232
+       
 
     std::cout << "\nPress any key to exit...";
     std::cin.get();
