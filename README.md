@@ -5,3 +5,5 @@ System Specifications is a simple C++ program designed to output information abo
 ## Features
 * Obtain information about the processor, video card, RAM, etc.
 * Simple and easy to understand console interface.
+
+![Image alt] 
